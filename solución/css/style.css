@@ -1,0 +1,52 @@
+.navbar-dark{
+    color: white;
+}
+
+
+#img2{
+    opacity: 0.3;
+    width: 100%;
+    height: auto;
+}
+
+#img3{
+    width: 100%;
+    height: auto;
+}
+
+#img6{
+    -webkit-filter: invert(100%);
+    filter: invert(100%);
+}
+
+
+.center {
+    padding: 100px 0;
+    text-align: center;
+}
+
+.center2 {
+    padding: 100px 0;
+    padding-left: 25px;
+}
+
+// icons
+
+.fa{
+    font: size 50px;
+}
+.fa-facebook-square{
+    color:blue;
+} 
+.fa-twitter-square{
+    color:DeepSkyBlue;
+} 
+.fa-youtube-square{
+    color:red;
+} 
+.fa-instagram{
+    background-color:DarkRed;
+} 
+.fa-rss-square{
+    color:OrangeRed;
+} 
