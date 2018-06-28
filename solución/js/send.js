@@ -1,6 +1,6 @@
 $(document).on("ready", function() {
 	//Mètodo jQuery ajax
-/*
+	
 	var petition = $("#dataForm").attr("action");
 	var method = $("#dataForm").attr("method");
 	$("#dataForm").on("submit", function(){
@@ -25,7 +25,7 @@ $(document).on("ready", function() {
 			timeout:10000; 
 		}); 
 	});
-	*/
+	
 	
 
 
