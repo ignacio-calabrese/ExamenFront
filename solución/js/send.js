@@ -7,7 +7,6 @@ $(document).on("ready", function() {
 		$.ajax({
 			beforeSend: function() {
 				alert("Cargando");
-				//$(Selector).spin({radius:N°, width:N°, height:N°, length:N°});
 			},
 			url: petition,
 			type: method,
